@@ -41,7 +41,7 @@
           $volume = ($lengthOfPyramid * $widthOfPyramid * $heightOfPyramid) / 3;
 
           // output
-          echo "The Volume of a Right Rectangular Pyramid is " . (round($volume, 2)) . " mm².";
+          echo "The Volume of a Right Rectangular Pyramid is " . (round($volume, 2)) . " mm³";
           ?>
         </div>
       </div>
